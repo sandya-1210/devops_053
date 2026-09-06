@@ -1,0 +1,1 @@
+Git is the most widely used version control system, helping developers track changes, collaborate, and manage code effectively. GitHub builds on Git by providing a cloud platform to host, review, and share projects with ease.

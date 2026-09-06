@@ -1,0 +1,5 @@
+Jira is a software product developed by Atlassian that allows bug tracking, issue tracking and agile project management. Jira is used by a large number of clients and users globally for project, time, requirements, task, bug, change, code, test, release, sprint management.
+
+
+
+
